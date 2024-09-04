@@ -1,5 +1,5 @@
 import HomePage from "./pages/HomePage";
-import LoginPage from "./pages/loginPgae";
+import LoginPage from "./pages/LoginPgae";
 import SignupPage from "./pages/SignupPage";
 import DashboardPage from "./pages/DashboardPage";
 import NotFound from "./pages/NotFound";
